@@ -1,4 +1,7 @@
-![NASA Artemis Launch](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGE1eXlmdDU0aHM0NXhxOXhlY3p3bmlueDZyaTBrOGdsb3JlZm5ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/xo7PjbruAy6X0RfdpH/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/CigZvCW0pQdrHl24Xs/giphy.gif" alt="NASA Artemis Launch">
+</p>
+
 
 
 This is the Github repository for my Capstone project for the [IBM Data Science Specialisation](https://www.coursera.org/professional-certificates/ibm-data-science). The project aims to create a explore data and create 
