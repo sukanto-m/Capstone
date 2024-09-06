@@ -1,3 +1,6 @@
+![rocket](https://giphy.com/clips/nasa-launch-artemis-sls-CigZvCW0pQdrHl24Xs))
+
+
 This is the Github repository for my Capstone project for the [IBM Data Science Specialisation](https://www.coursera.org/professional-certificates/ibm-data-science). The project aims to create a explore data and create 
 a classfication model to predict launches for SpaceX's Falcon 9 stage 1 booster. This data can be used by a SpaceX competitor to optimise costs, which would help them in competitive bidding to acquire business.
 
