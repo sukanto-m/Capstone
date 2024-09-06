@@ -1,4 +1,4 @@
-This is the Github repository for my Capstone project for the ![IBM Data Science Specialisation](https://www.coursera.org/professional-certificates/ibm-data-science). The project aims to create a explore data and create 
+This is the Github repository for my Capstone project for the [IBM Data Science Specialisation](https://www.coursera.org/professional-certificates/ibm-data-science). The project aims to create a explore data and create 
 a classfication model to predict launches for SpaceX's Falcon 9 stage 1 booster. This data can be used by a SpaceX competitor to optimise costs, which would help them in competitive bidding to acquire business.
 
 The project is mainly divided into the data acquisition, data wrangling, visualisation and exploration and predictive stages. The notebooks and files for the stages are as follows:
