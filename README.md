@@ -20,7 +20,7 @@ The project is mainly divided into the data acquisition, data wrangling, visuali
 
 
   Each of these files explores and drills down on the data to analyse various factors like payload mass, launch sites etc which may or may not influence the launch outcome (failure or success). The findings are explained in detail
-  in the project presentation.
+  in the [project presentation](https://docs.google.com/presentation/d/1itV1Uo0NAjPNPYtzX34YYPhWCy8k6Bpb/edit?usp=sharing&ouid=111942150411243423721&rtpof=true&sd=true).
 
   Thank you.
 
